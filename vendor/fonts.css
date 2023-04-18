@@ -1,0 +1,30 @@
+@font-face {
+	src:
+		url('./fonts/InterWeb/Inter-Black.woff') format('woff'),
+		url('./fonts/InterWeb/Inter-Black.woff2') format('woff2');
+	font-family: 'Inter';
+}
+
+@font-face {
+	font-family: 'Inter';
+	src:
+		url('./fonts/InterWeb/Inter-Bold.woff') format('woff'),
+		url('./fonts/InterWeb/Inter-Bold.woff2') format('woff2');
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: 'Inter';
+	src:
+		url('./fonts/InterWeb/Inter-ExtraBold.woff') format('woff'),
+		url('./fonts/InterWeb/Inter-ExtraBold.woff2') format('woff2');
+	font-weight: 900;
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	src: url('./fonts/InterWeb/Inter-roman.var.woff2') format("woff2"),
+		url('./fonts/InterWeb/Inter-Regular.woff') format("woff");
+}

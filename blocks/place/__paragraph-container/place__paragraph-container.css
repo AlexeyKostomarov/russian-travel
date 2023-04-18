@@ -1,0 +1,25 @@
+.place__paragraph-container {
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	gap: 26px;
+	max-width: 484px;
+}
+@media screen and (max-width: 1024px) {
+    .place__paragraph-container {
+    		max-width: 456px;
+    		margin: 0 auto;
+    	}
+}
+@media screen and (max-width: 768px) {
+    .place__paragraph-container {
+    		gap: 23px;
+    		max-width: 352px;
+    	}
+}
+@media screen and (max-width: 320px) {
+    .place__paragraph-container {
+    		row-gap: 25px;
+    		max-width: 283px;
+    	}
+}

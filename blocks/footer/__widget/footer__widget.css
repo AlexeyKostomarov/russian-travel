@@ -1,0 +1,8 @@
+.footer__widget {
+	margin: 0;
+	padding: 0;
+	padding-right: 18px;
+}
+.footer__widget:last-of-type {
+	padding-right: 0;
+}
