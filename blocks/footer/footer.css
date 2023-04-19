@@ -1,11 +1,10 @@
 .footer {
 	max-width: 1184px;
-	min-height: 52px;
 	margin: 0 auto;
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-end;
-	padding-top: 75px;
+	padding-top: 92px;
 	padding-bottom: 24px;
 }
 
@@ -27,7 +26,7 @@
 		max-width: 288px;
 		flex-direction: column;
 		padding-top: 64px;
-		row-gap: 32px;
+		row-gap: 48px;
 		align-items: flex-start;
 		margin: 0 0 0 16px;
 	}

@@ -1,9 +1,8 @@
 .header__logo {
-	position: relative;
-
-	background-size: 100%;
+	object-fit: cover;
 	width: 176px;
 	height: 52px;
+	display: block;
 }
 @media screen and (max-width: 360px) {
     .header__logo {

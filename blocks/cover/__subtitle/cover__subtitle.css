@@ -2,20 +2,19 @@
 	max-width: 360px;
 	text-align: center;
 	margin: 0;
-	font-family: 'Inter', sans-serif, serif;
+	font-family: 'Inter', 'Arial', sans-serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 18px;
-	line-height: 1.2;
+	line-height: 122%;
+	z-index: 1;
 }
+
+
 @media screen and (max-width: 500px) {
     .cover__subtitle {
     		max-width: 288px;
-    		font-family: 'Inter';
-    		font-style: normal;
-    		font-weight: 400;
     		font-size: 14px;
-    		line-height: 1.1;
-    		text-align: center;
+    		line-height: 114%;
     	}
 }

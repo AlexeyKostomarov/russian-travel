@@ -13,13 +13,12 @@
 }
 @media screen and (max-width: 768px) {
     .place__paragraph-container {
-    		gap: 23px;
+    		gap: 25px;
     		max-width: 352px;
     	}
 }
 @media screen and (max-width: 360px) {
     .place__paragraph-container {
-    		row-gap: 25px;
     		max-width: 283px;
     	}
 }
