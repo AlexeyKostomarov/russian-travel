@@ -13,12 +13,12 @@
 
 @media screen and (max-width: 768px) {
     .lead__caption {
-    		padding-left: 48px;
+    		padding-left: 24px;
     	}
 }
 
 @media screen and (max-width: 380px) {
     .lead__caption {
-    		padding-left: 016px;
+    		padding-left: 16px;
     	}
 }

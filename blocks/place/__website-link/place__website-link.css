@@ -8,7 +8,7 @@
 	text-decoration-line: underline;
 	color: #fff;
 	opacity: 1;
-	transition: opacity .2 linear;
+	transition: opacity .2s linear;
 }
 
 .place__website-link:hover {
