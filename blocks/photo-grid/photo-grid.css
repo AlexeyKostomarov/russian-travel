@@ -1,7 +1,6 @@
 .photo-grid {
 	max-width: 1184px;
 	width: 100%;
-	margin: 0 auto;
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	grid-template-rows: minmax(min-content, max-content);
